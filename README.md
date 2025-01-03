@@ -7,4 +7,4 @@ Previously I have...
 • Managed and created comms, video and design for numerous national industrial and political campaigns.
 • Designed internationally focussed academic research, financial reports and legal publications.
 
-With my background in design thinking, project management, and now web development, I offer a well-rounded perspective for start-ups looking to build meaningful, user-focused solutions.
+With my background in design thinking, project management, and now web development, I offer a well-rounded perspective for any organisation looking to build meaningful, user-focused solutions.
