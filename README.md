@@ -4,7 +4,6 @@
 
 → Over the past three years I’ve been following an ever-growing interest in coding, product and UX.
 
-→ I'm looking for opportunities to develop my new skills in full stack development.
 
 ### My tech stack
 
