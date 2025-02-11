@@ -4,6 +4,7 @@
 
 → Over the past three years I’ve been following an ever-growing interest in coding, product and UX.
 
+→ I recently completed an intensive 12-week full-stack development course with Le Wagon.
 
 ### My tech stack
 
