@@ -1,4 +1,4 @@
-→ I'm currently learning to be a full stack software developer with Le Wagon.
+→ I'm currently switching careers and looking for opportunities to grow as a web developer.
 
 → I’m an experienced graphic designer and project management professional with more than 15 years experience.
 
